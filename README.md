@@ -1,6 +1,7 @@
-# Portfolio Overview
-Below is a summary of all my SQL-related work.
+# Summary
+I have categorized my projects based on the programming language used. Please see below for each language's respective portfolio.
 
-# [Technical Assessment 1](https://github.com/michelleng95/SQL-Assessment-1)
-This is a technical assessment I did for a company.
-I used MySQL to create the tables as per the questions, and came up with solutions to produce the outcomes requested.
+# [R](https://github.com/michelleng95/R-Portfolio)
+
+# [SQL](https://github.com/michelleng95/SQL-Portfolio)
+
